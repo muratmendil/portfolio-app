@@ -4,19 +4,19 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_camera"
-            android:icon="@drawable/programmer"
+            android:icon="@drawable/user"
             android:title="A propos" />
         <item
             android:id="@+id/nav_gallery"
-            android:icon="@drawable/scholarship"
+            android:icon="@drawable/formation"
             android:title="Formations" />
         <item
             android:id="@+id/nav_slideshow"
-            android:icon="@drawable/skills"
+            android:icon="@drawable/skillss"
             android:title="Compétences" />
         <item
             android:id="@+id/nav_manage"
-            android:icon="@drawable/site"
+            android:icon="@drawable/search"
             android:title="Réalisation" />
     </group>
 
